@@ -1,0 +1,13 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.4",
+    "Category": "",
+    "Description": "2089 Alpha world generation prototype",
+    "Modules": [
+        { "Name": "A2089", "Type": "Runtime", "LoadingPhase": "Default" },
+        { "Name": "SimAstro", "Type": "Runtime", "LoadingPhase": "Default" },
+        { "Name": "WorldGen", "Type": "Runtime", "LoadingPhase": "Default" },
+        { "Name": "RPGData", "Type": "Runtime", "LoadingPhase": "Default" },
+        { "Name": "UIDebug", "Type": "Runtime", "LoadingPhase": "Default" }
+    ]
+}
