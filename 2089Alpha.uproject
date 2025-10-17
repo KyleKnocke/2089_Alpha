@@ -8,6 +8,7 @@
         { "Name": "SimAstro", "Type": "Runtime", "LoadingPhase": "Default" },
         { "Name": "WorldGen", "Type": "Runtime", "LoadingPhase": "Default" },
         { "Name": "RPGData", "Type": "Runtime", "LoadingPhase": "Default" },
-        { "Name": "UIDebug", "Type": "Runtime", "LoadingPhase": "Default" }
+        { "Name": "UIDebug", "Type": "Runtime", "LoadingPhase": "Default" },
+        { "Name": "DevTools", "Type": "Runtime", "LoadingPhase": "Default" }
     ]
 }
